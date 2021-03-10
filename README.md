@@ -1,3 +1,4 @@
+![title](20210307_115903.png)
 <h1 align="center">Hi 👋, I'm Abu Huraira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-plinix&label=Profile%20views&color=0e75b6&style=flat" alt="root-plinix" /> </p>
 <h3 align="left">Connect with me</h3>
